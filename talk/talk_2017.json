@@ -1,6 +1,14 @@
 [
     {
         "title": "大澤正彦君が一般財団法人コンピュータソフトウェア協会 AI技術研究会セミナーに登壇しました",
-        "description": "2017年6月の一般財団法人コンピュータソフトウェア協会 AI技術研究会セミナーにて大澤正彦君が「げっ歯類レベル汎用人工知能を目指して」を講演しました。"
+        "description": "<p>2017年6月の一般財団法人コンピュータソフトウェア協会 AI技術研究会セミナーにて大澤正彦君が「げっ歯類レベル汎用人工知能を目指して」を講演しました。</p>"
+    }
+    {
+        "title": "妹尾卓磨君が全脳アーキテクチャ若手の会第28会勉強会「深層強化学習の動向」に登壇しました",
+        "description": "<p>7月の全脳アーキテクチャ若手の会第28会勉強会「深層強化学習の動向」に妹尾卓磨君が登壇しました<br> 資料：<a href='https://speakerdeck.com/takuseno/survey-of-deep-reinforcement-learning' target='_blank'>https://speakerdeck.com/takuseno/survey-of-deep-reinforcement-learning</a></p>"
+    }
+    {
+        "title": "大澤正彦君がSIG-WBAにて講演しました",
+        "description": "<p>3月にSIG-WBAで大澤正彦君が「げっ歯類レベル認知アーキテクチャを目指して」を講演しました。</p>"
     }
 ]
