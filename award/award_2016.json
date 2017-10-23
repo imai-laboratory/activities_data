@@ -1,7 +1,7 @@
 [
     {
-        "title": "大澤正彦君がKEIO TECHNO-MALL NTT コラボレーション Awardを受賞しました",
-        "description": "<p>大澤正彦君が、東京国際フォーラムで開催された２０１6年のKEIO TECHNO-MALLでNTT コラボレーション Awardを受賞しました。</p>"
+        "title": "今井研がKEIO TECHNO-MALL NTT コラボレーション Awardを受賞しました",
+        "description": "<p>今井研が、東京国際フォーラムで開催された２０１6年のKEIO TECHNO-MALLでNTT コラボレーション Awardを受賞しました。</p>"
     },
     {
         "title": "大澤正彦君が人工知能学会30周年記念事業奨励賞を受賞しました",
@@ -9,6 +9,14 @@
     },
     {
         "title": "大澤正彦君が第2回全脳アーキテクチャ・ハッカソンですごい賞および脳っぽい賞を受賞しました",
-        "description": "<p>大澤正彦君が第2回全脳アーキテクチャ・ハッカソンですごい賞および脳っぽい賞を受賞しました</p><p>発表タイトル：「Accumulatorモデルに基づく行動抑制型認知アーキテクチャASCA」</p><p><a href='https://wba-initiative.org/2011/' target='_blank'>https://wba-initiative.org/2011/</a></p>"   
+        "description": "<p>大澤正彦君が第2回全脳アーキテクチャ・ハッカソンですごい賞および脳っぽい賞を受賞しました</p><p>発表タイトル：「Accumulatorモデルに基づく行動抑制型認知アーキテクチャASCA」</p><p><a href='https://wba-initiative.org/2011/' target='_blank'>https://wba-initiative.org/2011/</a></p>"
+    },
+    {
+        "title": "安松勇紀君が第78回情報処理学会全国大会 学生奨励賞を受賞しました",
+        "description": "<p>安松勇紀君が第78回情報処理学会全国大会で学生奨励賞を受賞しました</p><p>発表タイトル：「エージェントマイグレーションを用いたユーザインタフェースの為の行動決定モデル」</p>"
+    },
+    {
+        "title": "山内守君が第78回情報処理学会全国大会 学生奨励賞を受賞しました",
+        "description": "<p>山内守が第78回情報処理学会全国大会で学生奨励賞を受賞しました</p><p>発表タイトル：「ロボットの失敗表現行動の生成に関する研究」</p>"
     }
 ]
